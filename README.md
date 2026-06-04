@@ -14,50 +14,22 @@ These projects demonstrate the implementation of core AI concepts used in modern
 
 ## Project Highlights
 
-### Search and Path Planning
+### Intelligent Search and Planning
 
-Implemented classical search algorithms including:
+Designed autonomous agents capable of solving complex navigation and path-planning problems using graph search techniques, including DFS, BFS, Uniform Cost Search, and A* Search.
 
-* Depth-First Search (DFS)
-* Breadth-First Search (BFS)
-* Uniform Cost Search (UCS)
-* A* Search
+### Adversarial Decision-Making Agents
 
-### Multi-Agent Decision Making
+Developed game-playing AI agents that reason under competition and uncertainty using Minimax Search, Alpha-Beta Pruning, and Expectimax algorithms.
 
-Developed intelligent agents capable of adversarial reasoning using:
+### Reinforcement Learning Systems
 
-* Minimax Search
-* Alpha-Beta Pruning
-* Expectimax
+Implemented reinforcement learning agents capable of learning optimal policies through Value Iteration, Q-Learning, and Approximate Q-Learning.
 
-### Reinforcement Learning
+### Probabilistic Reasoning and State Estimation
 
-Implemented:
+Built Bayesian inference systems for hidden-state tracking using Bayesian Networks, Variable Elimination, Hidden Markov Models (HMMs), Exact Inference, and Particle Filtering.
 
-* Value Iteration
-* Q-Learning
-* Approximate Q-Learning
+### Machine Learning and Neural Networks
 
-### Probabilistic Inference
-
-Built probabilistic reasoning systems using:
-
-* Bayesian Networks
-* Variable Elimination
-* Hidden Markov Models
-* Particle Filters
-
-### Neural Networks
-
-Developed machine learning models including:
-
-* Perceptron Classifier
-* Feedforward Neural Networks
-* Recurrent Neural Networks (RNNs)
-
-Applications included:
-
-* Function Approximation
-* Handwritten Digit Recognition (MNIST)
-* Language Identification
+Designed and trained machine learning models including Perceptrons, Feedforward Neural Networks, and Recurrent Neural Networks (RNNs) for function approximation, handwritten digit recognition (MNIST), and language identification.
